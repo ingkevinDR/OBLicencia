@@ -15,7 +15,7 @@ print("""
                         ░     ░ ░      
                                 ░        
 """)
-print("""|SCRIPT BY RODI COMUNNITY - https://rodicomunnity.blogspot.com/""")
+print("""|SCRIPT BY RODI COMUNNITY - https://comunidadrodi.blogspot.com/""")
 print("")
 print("---------------------------------------------------------------")
 print("|SU LICENCIA ES: ")
